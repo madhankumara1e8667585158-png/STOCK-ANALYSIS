@@ -1,0 +1,4 @@
+google-genai>=3.3.0
+python-dotenv>=1.2.4
+yfinance>=1.8.0
+pandas>=2.2.0
